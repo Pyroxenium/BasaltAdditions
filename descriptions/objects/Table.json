@@ -1,0 +1,5 @@
+{
+  "name": "Table",
+  "short": "The Table Object efficiently organizes objects."
+  "description": "The Table Object is a dynamic UI component that automatically organizes and displays objects in a structured format."
+}
